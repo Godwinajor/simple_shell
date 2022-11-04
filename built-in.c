@@ -182,7 +182,7 @@ char *_strtok(char *buff)
 	int i = 0;
 	char *set = NULL, *string = NULL;
 	static char *save;
-
+OBOBOB
 	buff = (buff) ? buff : save;
 	set = buff;
 	string = set;
